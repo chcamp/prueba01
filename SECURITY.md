@@ -10,3 +10,17 @@ If you discover a security vulnerability within this project, please send an ema
 
 ## Security Updates
 We will notify the community of any critical security vulnerabilities found in the project and the necessary actions taken to remediate them. You can also subscribe to our [security announcements](https://github.com/chcamp/prueba01/security/advisories).
+
+## Politicas de repositorio : Revision de codigo obligatorio
+
+# Crea una nueva rama para caracteristicas o correcciones 
+
+# git checkout -Ramas disponibles.
+
+y asi se van creando las politicas de seguridad dentro de github..
+
+45. Agregando colaboradores y observando seguridad
+----------------------------------------------------
+
+
+
